@@ -26,12 +26,12 @@ for (let i = 0; i < 100; i++) {
 for (let i = 0; i < nombre.length; i++) {
     if (nombre[i] < 50) {
         console.log(`c'est la fin des harico ${i}`);
-        break;
+        break; 
     }
     console.log(numbers[i]);
 }
 
-const nombre2 = [];
+const nombre2 = [];                      
 
 
 for (let i = 0; i < 100; i++) {

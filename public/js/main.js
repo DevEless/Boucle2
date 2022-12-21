@@ -10,7 +10,7 @@ const stipé2 = ["hello", "there", "gen", "Z", "frite"];
 
 let Mot;
 do {
-    Mot = prompt("Saisissez un élément du tableau :");
+    Mot = prompt("METS UN ELEMENTS LAAAAAA :");
 } while (!stipé2.includes(Mot) || !Mot.includes("a"));
 
 console.log(`je sapel groot : ${Mot}`);
